@@ -25,10 +25,14 @@ There are seven unique types of frieze groups.
 ###III: translation and vertical reflection 
 (isomorphic to the infinite dihedral group)
 
-###IV: translation and rotation of 180 degrees (isomorphic to the infinite dihedral group)
+###IV: translation and rotation of 180 degrees 
+(isomorphic to the infinite dihedral group)
 
-###V: glide reflection and rotation of 180 degrees (isomorphic to the infinite dihedral group)
+###V: glide reflection and rotation of 180 degrees 
+(isomorphic to the infinite dihedral group)
 
-###VI: translation and horizontal reflection (isomorphic to the direct product of Z and Z/2Z)
+###VI: translation and horizontal reflection 
+(isomorphic to the direct product of Z and Z/2Z)
 
-###VII: translation, horizontal reflection and vertical reflection (isomorphic to the direct product of Z/2Z and the infinite dihedral group)
+###VII: translation, horizontal reflection and vertical reflection 
+(isomorphic to the direct product of Z/2Z and the infinite dihedral group)
