@@ -34,5 +34,8 @@ There are seven unique types of frieze groups.
 ###VI: translation and horizontal reflection 
 (isomorphic to the direct product of Z and Z/2Z)
 
+
 ###VII: translation, horizontal reflection and vertical reflection 
 (isomorphic to the direct product of Z/2Z and the infinite dihedral group)
+
+See elm repo for online version
